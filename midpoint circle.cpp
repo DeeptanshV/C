@@ -1,3 +1,5 @@
+//will create just one circle using midpoint 
+
 #include<conio.h>
 #include<graphics.h>
 void main()
